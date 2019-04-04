@@ -1,0 +1,6 @@
+
+DataSet : Bank-Full
+ Result :a reduction of about 13.4% in marketing cost can be achieved while maintaining 96.95% sales 
+
+DataSet : Bank-additional-Full
+ Result : #a reduction of about 11.4% in marketing cost can be achieved while maintaining 97.6% sales 
